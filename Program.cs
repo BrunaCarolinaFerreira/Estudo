@@ -8,7 +8,7 @@ namespace Estudo
 {
     class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
             string estudo = "vamos estudar programação";
             Console.WriteLine(estudo);

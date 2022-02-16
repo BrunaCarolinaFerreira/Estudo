@@ -12,6 +12,11 @@ namespace Estudo
         {
             string estudo = "vamos estudar programação";
             Console.WriteLine(estudo);
+
+            string brunaferreira = " bruna é gorda";
+            Console.WriteLine(brunaferreira);
+
+            Console.ReadLine();
         }
     }
 }

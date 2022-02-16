@@ -10,6 +10,8 @@ namespace Estudo
     {
         static void Main(string[] args)
         {
+            string estudo = "vamos estudar programação";
+            Console.WriteLine(estudo);
         }
     }
 }
